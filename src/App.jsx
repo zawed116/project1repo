@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from './components/Navbar';
-import Features from './components/Features';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Gallery from './components/Gallery';
+import Navbar from './Components/Navbar';
+import Features from './Components/Features';
+import Footer from './Components/Footer';
+import Hero from './Components/Hero';
+import Gallery from './Components/Gallery';
 
 
 const App = () => {
